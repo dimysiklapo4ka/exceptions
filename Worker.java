@@ -1,4 +1,4 @@
-package InitDnepr.exceptions;
+package exceptions;
 
 import java.util.Random;
 
